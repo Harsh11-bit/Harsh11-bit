@@ -1,14 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Harsh+Tandel+🚀;A+Web+Developer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Harsh+Tandel+🚀;Full+Stack+Developer+🇮🇳" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-[Write 2-3 lines about yourself here — e.g., "Passionate Full-Stack Developer with 3+ years of experience building scalable web applications. Love turning ideas into reality using modern tech."]
+Dynamic **Full Stack Developer** with hands-on experience at **DEC Gaming Studio** and **Baoiam Innovations**.  
+Skilled in **MERN Stack**, Laravel, Django, Flutter & Swift. Passionate about building scalable web & mobile applications with clean architecture and pixel-perfect UI.
 
-Currently learning **Next.js 15** & **AI/ML** | Always open to exciting opportunities & collaborations ✨
+Currently learning **Next.js 15** & **AI/ML** | Open to exciting opportunities & collaborations ✨
 
 ---
 
@@ -16,16 +17,25 @@ Currently learning **Next.js 15** & **AI/ML** | Always open to exciting opportun
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!-- Add more badges here as per your skills -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -34,22 +44,34 @@ Currently learning **Next.js 15** & **AI/ML** | Always open to exciting opportun
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&show_icons=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true" height="180" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&layout=compact" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh11-bit&theme=radical&hide_border=true&show_icons=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh11-bit&theme=radical&hide_border=true" height="180" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh11-bit&theme=radical&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 🔥 Featured Projects
 
-**Project Name 1** — Short 1-line description  
-→ [Live Demo](link) | [GitHub Repo](link)
+**Medical Store Management Website** — MERN Stack  
+• Full-stack responsive web app for inventory, sales, users & transactions  
+• Designed efficient MongoDB schemas for fast data handling  
+→ [GitHub Repo](https://github.com/Harsh11-bit) *(replace with your actual repo link)* | [Live Demo](https://your-demo-link.com)
 
-**Project Name 2** — Short 1-line description  
-→ [Live Demo](link) | [GitHub Repo](link)
+**IPL Cricket Information Website** — HTML5, CSS3, JavaScript, Bootstrap  
+• Interactive platform with team details, player stats & live points table  
+• Fully responsive design with dynamic updates  
+→ [GitHub Repo](https://github.com/Harsh11-bit) *(replace with your actual repo link)* | [Live Demo](https://your-demo-link.com)
 
-*(Add 3-4 of your best projects here — companies check these first!)*
+*(Add your Portfolio, health-wellness-app or any other public repos here — companies check these first!)*
+
+---
+
+### 💼 Experience Highlights
+
+- **Full Stack Developer** @ DEC Gaming Studio (Mar–Jun 2025)  
+- **Full Stack Developer** @ Baoiam Innovations (Jan–Mar 2025)  
+- **Backend Developer** @ Baoiam Innovations (Jul 2024–Jan 2025)
 
 ---
 
@@ -57,18 +79,17 @@ Currently learning **Next.js 15** & **AI/ML** | Always open to exciting opportun
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshtandel11)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tandelh009@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-00C853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919586088525)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile+Views&color=00FF88&style=for-the-badge" alt="Profile Views"/>
-  <br>
-  <b>Thank you for visiting my profile! ✨</b><br>
-  Made with ❤️ in India 🇮🇳
+  <img src="https://komarev.com/ghpvc/?username=Harsh11-bit&label=Profile+Views&color=00FF88&style=for-the-badge" alt="Profile Views"/>
+  <br><br>
+  <b>Thank you for visiting my profile!</b><br>
+  Made with ❤️ in Surat, Gujarat 🇮🇳
 </div>
